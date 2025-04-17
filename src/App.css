@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Manrope', sans-serif;
+  border: none;
+}
+
+:root {
+  --background-primary: rgba(244, 244, 244, 1);
+  --background-secondary: rgba(255, 255, 255, 1);
+  --accent-color: rgba(89, 69, 254, 1);
+}
+
+.container {
+  background-color: var(--background-primary);
+  width: 360px;
+  height: 670px;
+  margin: 24px;
+  padding-block: 23px;
+}

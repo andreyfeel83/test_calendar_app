@@ -1,0 +1,6 @@
+.container{
+    background-color: var(--background-secondary);
+    width: 360px;
+    height: 381px;
+    border-radius: 20px;
+}
